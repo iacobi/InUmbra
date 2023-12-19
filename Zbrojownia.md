@@ -1,5 +1,6 @@
 
 
+
 .32 słabe 3 kostki
 .38-40 zwykłe 3 kostki
 .44-40 silne 4 kostki
@@ -64,57 +65,24 @@ Srebna amunicja – dolar za pocisk
 
 **Broń Biała**
 
-  
 
-**WALKA WRĘCZ**
+  |Walka Wręcz | Obrażenia | Przerzuty | Cechy | Cena |
+|--|--|--|--|--|--|
+| **Bez broni**  |słabe 4 kostki|-|Walka Wręcz| traci kostkę z trafienia lepiej uzbrojonych |0$| 
+| **Kastet, Broń Improwizowana** |słabe 4 kostki| 1|Walka Wręcz|traci kostkę z trafienia lepiej uzbrojonych| 1$|
+| **Laska, Pałka, Gazrurka, młotek** |słabe 4 kostki|1|Walka Bronią/Walka Wręcz|- |0$| 
+| **Maczuga Okopowa**  |zwykłe4 kostki|1|Walka Bronią/Walka Wręcz| przeciwpancerna, kiepska kontra |0$| 
+| **Widły**  |zwykłe4 kostki|1|Walka Bronią/Walka Wręcz| -|10$| 
+| **Siekiera**  |silne 4 kostki|1|Walka Bronią/Walka Wręcz| kiepska kontra, dwuręczna|10$| 
+| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią/Walka Wręcz| dwuręczny|10$| 
+| **Nóż** |zwykłe 4 kostki|-|Walka Bronią/Walka Wręcz| - |0$| 
+| **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |10$| 
+| **Szabla** | zwykłe 4 kostki |2|Walka Bronią |- |20$| 
+| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|100$| 
+| **Tomahawk** | silne 4 kostki |1|Walka Bronią | kiepska kontra|10$| 
+| **Włócznia** | zwykłe 4 kostki |3|Walka Bronią | dwuręczna|10$| 
 
-**Bez Broni:** słabe 4 kostki , traci kostkę z trafienia lepiej uzbrojonych
 
-**Kastet:** słabe 4 kostki, 1 przerzut, traci kostkę z trafienia lepiej uzbrojonych
-
-**Broń Improwizowana:** słabe 4 kostki, 1 przerzut, traci kostkę z trafienia lepiej uzbrojonych
-
-  
-
-**POSTAĆ WYBIERA WALKA WRĘCZ CZY WALKA BRONIĄ**
-
-**Młotek**: słabe 4 kostki, 1 przerzut, przeciwpancerny, traci kostkę z trafienia lepiej uzbrojonych
-
-**Pałka** : słabe 4 kostki
-
-**Kostur :** słabe 4 kostki, przerzut
-
-**Maczuga Okopowa:** zwykłe 4 kostki, przerzut, przeciwpancerna, kiepska kontra
-
-**Nóż :** zwykłe 4 kostki
-
-**Sztylet**: zwykłe 4 kostki, przeciwpancerny
-
-  
-
-**WALKA BRONIĄ**
-
-**Maczeta** : zwykłe 4 kostki, 1 przerzut
-
-**Szabla :** zwykłe 4 kostki, 2 przerzuty
-
-**Katana :** silne 4 kostki, 2 przerzuty, dwuręczna
-
-**Tomahawk** : silne 4 kostki, 1 przerzut, kiepska kontra
-
-**Włócznia**: zwykłe 4 kostki, 2 przerzuty, +1 do umiejętności, dwuręczna
-
-**Widły**: zwykłe 4 kostki, dwa przerzuty, dwuręczne
-
-**Mała Siekierka:** silne 4 kostki, kiepska kontra
-
-**Duża Siekiera:** silne 4 kostki, 1 przerzut, kiepska kontra, dwuręczna
-
-**Młot Budowlany:** silne 4 kostki, przeciwpancerny, kiepska kontra, dwuręczny
-
-  
-
-  
 
   
 
