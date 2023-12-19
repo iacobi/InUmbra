@@ -1,1 +1,2 @@
-[tekst linku](/testowy_plik)
+[tekst linku](testowy_plilk.md)
+
