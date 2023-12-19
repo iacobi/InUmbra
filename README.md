@@ -1,2 +1,2 @@
 # InUmbra
-Gra Fabularne
+Gra Fabularna
