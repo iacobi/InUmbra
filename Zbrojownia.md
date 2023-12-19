@@ -1,20 +1,18 @@
 
 
+<h1>Zbrojownia</h1>
+<h2>Broń Palna</h2>
 
-.32 słabe 3 kostki
-.38-40 zwykłe 3 kostki
-.44-40 silne 4 kostki
-
-| Broń|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+| Broń Krótka|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
 |--|--|--|--|--|--|
 | **Rewolwer Kapiszonowy**  |zwykłe 3 kostki| 6 | 1 nabój w 8 tur | Dublet| 12$|
 | **Rewolwer Kieszonkowy** |słabe 3 kostki| 6 | 1 nabój na turę | Dublet| 12$|
-| **Derringer** |zwykłe 3 kostki| 2 | 1 nabój na turę | Dublet| 12$|
-| **Rewolwer**  |zwykłe 3 kostki| 6 | 1 nabój na turę | Dublet| 16$|
-| **Potężny Rewolwer** |silne 3 kostki| 6 | 2 naboje na turę | | 18$|
+| **Derringer .38-40** |zwykłe 3 kostki| 2 | 1 nabój na turę | Dublet| 12$|
+| **Rewolwer .38-40**  |zwykłe 3 kostki| 6 | 1 nabój na turę | Dublet| 16$|
+| **Potężny Rewolwer .44-40** |silne 3 kostki| 6 | 2 naboje na turę | | 18$|
 | **Pistolet Myśliwski** |zwykłe 4 kostki| 2 | 1 nabój na turę | Dublet, Odrzut| 30$|
 
-| Broń|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+| Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
 |--|--|--|--|--|--|
 | **Winchester .44-40**|silne 3 kostki| 15 | 1 nabój na turę |Prosta Obsługa | 30$|
 | **Winchester .45-60**|zwykłe 4 kostki| 12 | 1 nabój na turę | | 40$|
@@ -22,8 +20,8 @@
 | **Winchester .12 gauge**|słabe 5 kostek| 6 | 1 nabój na turę | Strzelba| 40$|
 | **Karabin .45-70**|zwykłe 4 kostki| 6 | 1 nabój na turę | | 20$|
 | **Karabin .50-90** |zwykłe 5 kostek| 6 | 1 nabój na turę | Odrzut| 40$|
-| **Driling lufa gwintowana**|zwykłe 4 kostki| 2/1 | 1 nabój na turę | | 40$|
-| **Driling lufa gładka** |słabe 5 kostek| 1/2 | 1 nabój na turę | Strzelba| 40$|
+| **Driling lufa gwintowana**|zwykłe 4 kostki| 2 | 1 nabój na turę |Dublet | 40$|
+| ***lufa gładka** |słabe 5 kostek| 1 | 1 nabój na turę | Strzelba| |
 
  
 
@@ -41,32 +39,21 @@
 
 **Nieporęczna:** Jeśli postać nie poświęci całej tury na przygotowanie się do strzału traci kostkę z każdego rzutu na trafienie
 
-  
+\
+|Paczka amunicji (24 pociski) |Cena|
+|--|--|
+|pistoletowa| 1$|
+|karabinowa/strzelba| 2$|
+|karabinowa potężna| 3$
+|srebrna (dowolna broń) | 24$
 
-**Paczka amunicji [24 pociski]**
-
-Pistoletowa 1$
-
-Karabinowa/Strzelba 2$
-
-Sharps 3$
-
-  
-
-Srebna amunicja – dolar za pocisk
 
   
 
-  
-
-  
-
-  
-
-**Broń Biała**
+<h2>Broń Biała</h2>
 
 
-  |Walka Wręcz | Obrażenia | Przerzuty | Cechy | Cena |
+|Walka Wręcz | Obrażenia | Przerzuty | Cechy | Umiejętność | Cena |
 |--|--|--|--|--|--|
 | **Bez broni**  |słabe 4 kostki|-|Walka Wręcz| traci kostkę z trafienia lepiej uzbrojonych |0$| 
 | **Kastet, Broń Improwizowana** |słabe 4 kostki| 1|Walka Wręcz|traci kostkę z trafienia lepiej uzbrojonych| 1$|
