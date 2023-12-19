@@ -1,7 +1,7 @@
 
 
 <h1>Zbrojownia</h1>
-<h2>Broń Palna</h2>
+<h2>Broń Palna Western</h2>
 
 | Broń Krótka|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
 |--|--|--|--|--|--|
@@ -289,142 +289,47 @@ Efekty różnych narkotyków nie kumulują się.
 
   
 
-  
+<h2>Broń Palna Noir</h2>
+
+| Broń Krótka|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+|--|--|--|--|--|--|
+| **Rewolwer Kieszonkowy** |słabe 3 kostki| 6 | 1 nabój na turę | Dublet| ???$|
+| **Rewolwer**  |zwykłe 3 kostki| 6 | 1 nabój na turę | Dublet| ???$|
+| **Potężny Rewolwer** |silne 3 kostki| 6 | 1 nabój na turę | | ???$|
+| **Colt .32**  |zwykłe 3 kostki| 6 | pół tury | Dublet| ???$|
+| **Colt .45**  |zwykłe 3 kostki| 6 | pół tury | Dublet| ???$|
+| **Mauser**  |zwykłe 3 kostki| 10 | cała tura | Dublet| ???$|
+
+| Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+|--|--|--|--|--|--|
+| **Pistolet Maszynowy**|zwykłe 3 kostki| 20/50| cała tura |Prosta Obsługa, Dublet, Ogień Ciągły | ???$|
+| **Karabinek Samopowtarzalny**|silne 3 kostki| 10| cała tura |Prosta Obsługa, Dublet| ???$|
+| **Dubeltówka** |słabe 5 kostki| 2 | 1 nabój na turę | Dublet| ???$|
+| **Strzelba Powtarzalna**|słabe 5 kostki| 6 | 1 nabój na turę | Strzelba| ???$|
+| **Karabin Powtarzalny**|silne 4 kostki| 5 | cała tura|Jeden strzał na turę | ???$|
+| **Ekspres Myśliwski** |silne 4 kostki| 6 | 1 nabój na turę | Dublet| ???$|
+| **Ekspres Nitro**|zwykłe 5 kostek| 2 | 1 nabój na 2 tury |Dublet, Odrzut | ???$|
+| **LKM** |silne 4 kostki| 20 |cała tura | Nieporęczny, Dublet, Ogień Ciągły| ???$|
+
+
+
+<h2>Broń Palna Vice</h2>
+
+
+| Broń Krótka|Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+|--|--|--|--|--|--|
+| **Rewolwer Kieszonkowy** |zwykłe 3 kostki| 5 | 1 nabój na turę | Dublet| ???$|
+| **Rewolwer**  |zwykłe 3 kostki| 6 | 1 nabój na turę | Dublet| ???$|
+| **.357 Magnum** |silne 3 kostki| 6 | 1 nabój na turę | Dublet| ???$|
+| **.44 Magnum** |silne 3 kostki| 6 | 1 nabój na turę | | ???$|
+| **9mm**  |zwykłe 3 kostki| 15 | pół tury | Dublet| ???$|
+
+| Broń Długa |Obrażenia|Magazynek | Ładowanie|Cechy|Cena|
+|--|--|--|--|--|--|
+| **Pistolet Maszynowy (UZI)**|zwykłe 3 kostki| 30| pół tury |Prosta Obsługa, Dublet, Ogień Ciągły | ???$|
+| **Karabinek Szturmowy (M16)**|zwykłe 4 kostki| 30| pół tury |Dublet, Ogień Ciągły | ???$|
+| **Strzelba Powtarzalna (Mossberg)**|słabe 5 kostki| 8 | 1 nabój na turę | Strzelba| ???$|
+| **Karabin Samopowtarzalny (FN-FAL)** |silne 4 kostki| 20 |pół tury | Dublet, Ogień Ciągły| ???$|
+| **Karabin Maszynowy (M60)** |silne 4 kostki| 100 |trzy tury| Nieporęczny, Dublet, Ogień Ciągły| ???$|
 
   
-
-  
-
-  
-
-**Broń Palna Vice**
-
-**Broń Krótka**
-
-**Obrażenia**
-
-**Mag**
-
-**Ładowanie**
-
-**Specjalne**
-
-**Cena**
-
-**Browning Hi Power**
-
-Zwykłe 3 kostki
-
-13
-
-Cały magazynek w pół tury
-
-Dublet
-
-  
-
-**.357 Magnum**
-
-Silne 3 kostki
-
-6
-
-1 nabój na turę
-
-Dublet
-
-  
-
-**.44 Magnum**
-
-Zwykłe 4 kostki
-
-6
-
-1 nabój na turę
-
-  
-
-  
-
-**Broń Długa**
-
-**Obrażenia**
-
-**Mag**
-
-**Ładowanie**
-
-**Specjalne**
-
-**Cena**
-
-**UZI**
-
-Zwykłe 3 kostki
-
-30
-
-Cały magazynek w pół tury
-
-Dublet, Ogień Ciągły, Prosta Obsługa
-
-  
-
-**Mossberg**
-
-Słabe 4 kostki
-
-8
-
-1 nabój na turę
-
-Śrut
-
-  
-
-**M16**
-
-Zwykłe 4 kostki
-
-30
-
-Cały magazynek w pół tury
-
-Dublet, Ogień Ciągły
-
-  
-
-**AK47**
-
-Słabe 5 kostek
-
-30
-
-Cały magazynek w pół tury
-
-Dublet, Ogień Ciągły
-
-  
-
-**FN-FAL**
-
-Silne 4 kostki
-
-20
-
-Cały magazynek w pół tury
-
-Dublet
-
-  
-
-**M60**
-
-Silne 4 kostki
-
-100
-
-Dwie Tury
-
-Dublet, Ogień Ciągły, Nieporęczny
