@@ -71,6 +71,145 @@
 
 
 
+<h2>Pancerze</h2>
+
+  
+
+**Lekki Pancerz Wartość Pancerza : 1**
+
+Można schować pod ubraniem i chodzić po mieście. Np. gruba jedwabna kamizelka.
+
+  
+
+**Średni Pancerz Wartość Pancerza : 2**
+
+Nie da się ukryć noszenia średniego pancerza
+
+  
+
+**Ciężki Pancerz Wartość Pancerza : 3**
+
+Pancerz zakłada się na kilka godzin, potem trzeba ściągnąć. Grube metalowe płyty. Jak Ned Kelly.
+
+
+
+
+<h2>Walka/Strzelanie z lewej ręki</h2>
+
+Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
+
+  
+
+  
+
+<h2>Apteka</h2>
+
+W czasie sesji postać może przyjąć tyle dawek ile wynosi jej wytrzymałość.
+
+Efekty różnych narkotyków nie kumulują się.
+
+  
+  
+
+**Morfina/Panaceum?**: zastrzyk przywraca 3 punkty żywotności.
+
+**Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów i rzutu na obrażenia**: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
+
+**Kokaina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby **testów**: **Sprawność**, **Spostrzegawczość**, **Charyzma** i **Intuicja** są podniesione o jeden. Kilkadziesiąt minut działania.
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+<h2>Leczenie</h2>
+
+Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
+
+**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
+
+**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
+
+**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
+
+
+<h1>Zasady Różne</h1>
+  
+
+<h2>Unikanie Broni Strzeleckiej (eksperymentalnie) </h2>
+
+Postacie graczy mają prawo wykonać unik przeciwko broni strzeleckiej pod warunkiem, że widzą postac oddającą strzał. Tracą kostkę z rzutu na unik.
+
+
+<h2>Strzały w Głowę / Atak w punkty witalne.</h2>
+
+Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje jeden punkt obrażeń więcej albo minimalnie 3 punkty obrażeń – wybierasz wyższą wartość.
+
+  
+
+<h2>Ominięcia Pancerza</h2>
+
+Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
+
+  
+
+<h2>Ogłuszenie</h2>
+
+W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przytomność trzeba ją sprowadzić do zera żywotności albo w jednym ataku zadać tyle obrażeń ile wynosi jej **próg bólu**. Obie sytuacje mogą się skończyć śmiercią zamiast ogłuszeniem.
+
+  
+
+<h2>Rozbrojenie</h2>
+
+Żeby kogoś rozbroić trzeba najpierw go trafić dowolnym atakiem używając kostki mniej na trafienie (można tą próbę dowolnie unikać albo kontrować.) Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli udało się wygrać cel jest rozbrojony. Jeśli cel miał dwie sztuki broni w dłoniach rozbrojenie pozbawia go wszystkich.
+
+  
+
+<h2>Obezwładnienie</h2>
+
+Żeby kogoś obezwładnić trzeba go najpierw trafić atakiem **Bez Broni** używając kostki mniej na trafienie. Cel obezwładnienia może ten atak unikać albo kontrować na normalnych zasadach. Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli cel ma broń w rękach trzeba go najpierw **rozbroić**, żeby móc go **obezwładnić**.
+
+
+
+<h2>Lunety/Optyka</h2>
+
++1 do umiejętności podczas strzałów mierzonych
+
+**western**: +1 jest wykorzystane tylko wtedy kiedy postać poświęci turę na celowanie przed każdym strzałem.
+
+**noir**: +1 jest wykorzystywane przy każdym strzale mierzonym.
+
+  
+
+<h2>Obrzyny</h2>
+
+Postać wybiera gorszą z dwóch umiejętność Broń Krótka/Broń Długa a i tak musi używać obrzyna oburącz. Jeśli chce strzelać jedną ręką z obrzyna wybiera gorszą z umiejętności Broń Krótka/Broń Długa/Siła.
+
+Winchestery obrzyny mają połowę pojemności magazynka.
+
+  
+
+<h2>Breneka</h2>
+
+Strzelby załadowane Breneką mają 4 silne kostki obrażeń zamiast słabych i tracą cechę śrut.
+
+  
+
+<h2>Szybkie Ładowanie Rewolwerów</h2>
+
+1880: Zwykłe i Dwutaktowe Rewolwery mogą mieć wymienne cylindry. Wymiana cylindry zajmuje dwie tury.
+
+1920: Rewolwery mogą mieć klipsy z nabojami, załadowanie pełnego cylindra za pomocą klipsu zajmuje jedną turę
+
+
+
   
 
 **Łuki**
@@ -79,13 +218,6 @@ silne 3 kostki obrażeń, jedna tura ładowania, Nie ma szybkich strzałów.
 
 Każdy łuk ma swoją siłę naciągu (od 3 do 6), jeśli jest większa od siły postaci, traci kostkę z rzutu na trafienie i rzutu na obrażenia. Jeśli jest mniejsza od siły postaci – postać musi używać obniżonej wartości do rzutu na obrażenia.
 
-  
-
-  
-
-  
-
-  
 
   
 
@@ -123,25 +255,6 @@ Desperacki rzut (-2 kostki obrażeń, -1 kostka do trafiania, zajmuje całą run
 
   
 
-**Pancerze**
-
-  
-
-**Lekki Pancerz Wartość Pancerza : 1**
-
-Można schować pod ubraniem i chodzić po mieście. Np. gruba jedwabna kamizelka.
-
-  
-
-**Średni Pancerz Wartość Pancerza : 2**
-
-Nie da się ukryć noszenia średniego pancerza
-
-  
-
-**Ciężki Pancerz Wartość Pancerza : 3**
-
-Pancerz zakłada się na kilka godzin, potem trzeba ściągnąć. Grube metalowe płyty. Jak Ned Kelly.
 
   
 
@@ -167,125 +280,8 @@ Pancerz zakłada się na kilka godzin, potem trzeba ściągnąć. Grube metalowe
 
   
 
-**Walka/Strzelanie z lewej ręki:**
 
-Jeśli nie masz odpowiedniej zalety, tracisz kostkę w testach używając mniej sprawnej ręki.
 
-  
-
-  
-
-**Strzały w Głowę / Atak w punkty witalne.**
-
-Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje jeden punkt obrażeń więcej albo minimalnie 3 punkty obrażeń – wybierasz wyższą wartość.
-
-  
-
-**Ominięcia Pancerza**
-
-Deklarujesz przed rzutem na trafieni. Musisz przebić wymagane trafienie o jeden. Atak zadaje kostkę obrażeń mniej ale omija pancerz. Mogą istnieć pancerze bez luk.
-
-  
-
-**Ogłuszenie**
-
-W tej mechanice nie ma „łatwych ogłuszeń”. Żeby postać straciła przytomność trzeba ją sprowadzić do zera żywotności albo w jednym ataku zadać tyle obrażeń ile wynosi jej **próg bólu**. Obie sytuacje mogą się skończyć śmiercią zamiast ogłuszeniem.
-
-  
-
-**Rozbrojenie**
-
-Żeby kogoś rozbroić trzeba najpierw go trafić dowolnym atakiem używając kostki mniej na trafienie (można tą próbę dowolnie unikać albo kontrować.) Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli udało się wygrać cel jest rozbrojony. Jeśli cel miał dwie sztuki broni w dłoniach rozbrojenie pozbawia go wszystkich.
-
-  
-
-**Obezwładnienie**
-
-Żeby kogoś obezwładnić trzeba go najpierw trafić atakiem **Bez Broni** używając kostki mniej na trafienie. Cel obezwładnienia może ten atak unikać albo kontrować na normalnych zasadach. Po trafieniu zamiast rzutu na obrażenia wykonuje się przeciwstawny test **Siły,** który trzeba wygrać. Jeśli cel ma broń w rękach trzeba go najpierw **rozbroić**, żeby móc go **obezwładnić**.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-**Lunety/Optyka**
-
-+1 do umiejętności podczas strzałów mierzonych
-
-**western**: +1 jest wykorzystane tylko wtedy kiedy postać poświęci turę na celowanie przed każdym strzałem.
-
-**noir**: +1 jest wykorzystywane przy każdym strzale mierzonym.
-
-  
-
-**Obrzyny**
-
-Postać wybiera gorszą z dwóch umiejętność Broń Krótka/Broń Długa a i tak musi używać obrzyna oburącz. Jeśli chce strzelać jedną ręką z obrzyna wybiera gorszą z umiejętności Broń Krótka/Broń Długa/Siła.
-
-Winchestery obrzyny mają połowę pojemności magazynka.
-
-  
-
-**Breneka**
-
-Strzelby załadowane Breneką mają 4 silne kostki obrażeń zamiast słabych i tracą cechę śrut.
-
-  
-
-**Szybkie Ładowanie Rewolwerów**
-
-1880: Zwykłe i Dwutaktowe Rewolwery mogą mieć wymienne cylindry. Wymiana cylindry zajmuje dwie tury.
-
-1920: Rewolwery mogą mieć klipsy z nabojami, załadowanie pełnego cylindra za pomocą klipsu zajmuje jedną turę
-
-  
-
-**Apteka**
-
-W czasie sesji postać może przyjąć tyle dawek ile wynosi jej wytrzymałość.
-
-Efekty różnych narkotyków nie kumulują się.
-
-  
-  
-
-**Morfina**: zastrzyk przywraca 3 punkty żywotności.
-
-**Amfetamina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby testów: **Siła**, **Sprawność** i **Wytrzymałość** są podniesione o jeden. Kilka godzin działania.
-
-**Kokaina**: Rzucasz dodatkową kostką na inicjatywę. Na potrzeby testów: **Sprawność**, **Spostrzegawczość**, **Charyzma** i **Intuicja** są podniesione o jeden. Kilkadziesiąt minut działania.
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-**Leczenie**
-
-Żywotność traktujemy jako paliwo organizmu – jeśli postać ma jeszcze żywotność, może działać. Regeneracja zależy od tego w jakim stanie jest postać:
-
-**Lekko Ranna**: Postać została pobita, potłukła się spadając z drzewa albo schodów, jest chora albo zmęczona. Regeneruje jeden punkt żywotności dziennie, albo dwa kiedy odpoczywa.
-
-**Poważnie Ranna:** Pobicie – ale takie żelaznym prętem, ciężka choroba, albo połamała się skacząc z pociągu. Musi być opatrzona, żeby w ogóle myśleć o regeneracji, odpoczynek przywraca jeden punkt na dzień.
-
-**Krytycznie Ranna:** Postrzał w brzuch, sieknięcia szablę przez łeb. Postać odzyskuje punkt na trzy dni.
 
   
 
