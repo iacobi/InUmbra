@@ -8,8 +8,8 @@
 4. Wybór dodatkowej wady jeśli postaci nie poszczęściło się przy obłędzie.
 
 <h2>Zalety</h2>
-**Każda postać dostaje dwie zalety plus jedną dodatkową zaletę za każdą posiadaną wadę.**
 
+**Każda postać dostaje dwie zalety plus jedną dodatkową zaletę za każdą posiadaną wadę.**
 
 **Artysta:** Postać zaczyna z dowolną artystyczną umiejętnościom np. **Muzyka** Masz przerzut do **Charyzmy** i do wybranej umiejętności artystycznej. Możesz użyć swojej umiejętności artystycznej zamiast Woli podczas Testu Koncentracji. Możesz dawać swoje **Punkty Mocy** innym postacią.
 
@@ -34,7 +34,6 @@ Przerzut do Walki Wręcz podczas ataku można wykorzystać albo podczas rzutu na
 
 **Szybki:** Przerzut do Sprawności. Rzucasz dodatkową kostkę na inicjatywę, wybierasz lepszą.
 
-
 **Szósty zmysł:** Przerzut do Intuicji oraz Spostrzegawczości. Postać ma oczy i uszy dookoła głowy. Nawet skupiona na dowolnej czynności albo podczas snu wszystkie testy spostrzegawczości i intuicji wykonuje pełną pulą kostek. Nie tracisz kostki unikając ataków strzeleckich. 
 
 **Twardziel:** postać dostaje przerzut do każdego testu Wytrzymałości. Próg Bólu i Żywotność postaci są podniesione o punkt.
@@ -43,9 +42,9 @@ Przerzut do Walki Wręcz podczas ataku można wykorzystać albo podczas rzutu na
 
 
 <h2>Wady</h2>
+
 **Wady podczas tworzenia są dobrowolne, można wybrać maksymalnie trzy wady podczas tworzenia.
 Wady nie mogą obniżyć maksymalnego poziomu umiejętności poniżej poziomu przeciętnego (3).**
-
 
 **Mrok(tylko wskutek obłędu):** Generujesz trzy punkty mroku zamiast jednego. Dodatkowo każdorazowe wejście na poświęconą ziemię (kościoły, cmentarze itp.) wymaga od postaci wydania 1 punktu mocy albo żywotności.
 
@@ -75,14 +74,14 @@ Wady nie mogą obniżyć maksymalnego poziomu umiejętności poniżej poziomu pr
 
 **Światłowstręt:** Tracisz kostkę z każdego możliwego testu w ciągu dnia. Nie możesz też wydawać punktów Mocy i korzystać z Magii w trakcie dnia.
 
-
-
-
 <h2>Punkty Wolne</h2>
+
 **8 punktów** do dowolnego rozdania, maksymalnie do **4 kropki**.
 
 <h2>Zdolności i Przedmioty Magiczne</h2>
+
 Postać może wybrać dowolne  magiczne umiejętności albo przedmioty tak długo jak ich łączna wartość nie przekracza 4 punktów obłędu.
 
 <h2>Obłęd</h2>
+
 Za każdym razem, kiedy postać dostaje punkt obłędu rzuca k10 i zakreśla kropki w wylosowanym miejscu. Jeśli wypełniła wszystkie cztery pozycje – wybiera Wadę. Jeśli udało jej się wylosować miejsce, które już ma wpisaną wadę losuje do skutku. Jeśli w trakcie gry w skutek nabytych wad maksymalny poziom umiejętności spadnie poniżej posiadanego przez postać. Postać odzyskuje PD wydane na stracone poziomy.
