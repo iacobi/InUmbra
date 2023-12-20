@@ -20,7 +20,7 @@
 
 **Chowaniec [3] : towarzysz :** Posiadasz magiczne zwierzę (kot, pies, szczur, sowa, kruk albo koń). Jeśli zamkniesz oczy i się skoncentrujesz widzisz i słyszysz wszystko, co widzi i słyszy to zwierzę. Zwierzę jest Ci bezwzględnie posłuszne i wykonuje polecenia jak świetnie wyszkolony pies. Płacąc jeden punkt mocy możesz przejąć nad nim całkowitą kontrolę sam pozostajesz w tym czasie w stanie medytacji albo snu. Jeśli Twój chowaniec zginie, sam otrzymujesz jeden punkt obrażeń. Chowaniec wraca w sposób magiczny na następnej sesji lub na tej samej sesji po wydaniu punktu woli. Chowańce muszą jeść i pić jak normalne zwierzęta.
 
-**Transformacja [4]**  **: zdolność :** Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
+**Transformacja [4]: zdolność :** Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
 
 **Telepatia [2] : zdolność :** Płacąc jeden punkt magii może rozmawiać z dowolną magicznie uzdolnioną osobą. Jeśli obie osoby posiadają zdolność telepatii nie trzeba wydawać punktów magii. Jeśli obie postacie posiadają dowolne lustra, mogą się w nich widzieć.
 
@@ -90,6 +90,8 @@ Wszystkie testy będąc w ciele opętanego przeprowadza się niższą z dwóch u
 
 **Lupara[3] : przedmiot :** dubeltówka ze skróconą lufą i kolbą, w przeciwieństwie do innych obrzynów postać wybiera czy używa broni krótkiej czy broni długiej do strzelania z lupary. Postać może wydać punkt mocy, żeby załadowanie lupary był akcją natychmiastową. Załadowana śrutiem zadaje jedną kostkę obrażeń więcej niż wynika to z normalnych zasad (słabe 5 kostek zamiast słabych 4), załadowana breneką nie zyskuje cechy odrzut.
 
+**Nekromancja [4] : umiejętność :** Płacąć punkt SW możesz rozmawiać ze zwłokami - im świeższe i lepiej zachowane zwłoki tym lepsze efekty rozmowy. Płacąć dwa punkty jesteś w stanie ożywić zombie, które będzie Twoim ochroniarzem. Po przeprowadzaniu testu koncentracji musisz zapłacić jeden punkt SW za każde zombie, które utrzymujesz inaczej się rozpadną.
+
   
   
 
@@ -151,21 +153,7 @@ obrażenia zadawane magiczną amunicją traktowane są jako magiczne – nadnatu
 
   
 
-Przeklęte umiejętności:
-
-Kupuje się jak nowe umiejętności. Postać dostaje tyle obłędu na jakim poziomie kupił tą umiejętność i punkt umiejętności za każde podniesienie.
-
   
-
-**???Nekromancja [każdy poziom to 1 punkt obłędu] : umiejętność :**
-
-Poziom 1 : za punkt SW możesz rozmawiać z zwłokami
-
-Poziom 3: za punkt SW możesz tworzyć zombie z dowolnych zwłok. Zombie mają umiejętności podstawowe i bojowe na poziomie 3, otrzymują połowę obrażeń (zaokrąglane w dół) i funkcjonują przez dobę zanim rozpadną się w kawałki albo do czasu kiedy postać uśnie, straci przytomność albo wykona test koncentracji.
-
-Poziom 4: Jeśli masz dostęp do cmentarza/miejsca bitwy (~50 zwłok) możesz wydać punkt woli i punkt żywotności, żeby stworzyć tyle zombie ile sukcesów uzyskasz w teście **Nekromancji**.
-
-Poziom 6: Za punkt SW możesz całkowicie zregenerować żywotność. Ta regeneracja nie jest liczona jako leczenie według zasad, więc ignoruje wszystkie wady i zalety, które wypływają na ilość odzyskiwanych punktów żywotnośći.
 
 
   
