@@ -16,10 +16,13 @@ Magicznych przedmiotów nie można trwale stracić. Jeśli zostaną one skradzio
   
   
 
-**Szklane Ostrze [1] : umiejętność :** Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
+**Szklane Ostrze (*umiejętność*, obłęd : 1)**
+Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
 
-**Kieł [1] : przedmiot :** Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
+**Kieł (*przedmiot*, obłęd : 1)**
+Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
 
+**Odnowa (*umiejętność *, obłęd : 1)**
 **Odnowa [1] : umiejętność :** Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
   
 **???Zapalniczka[1] : przedmiot :** magiczna zapalniczka, działa zawsze niezależnie od warunków pogodowych, nie zużywa tlenu i ma nieskończony zapas paliwa.
