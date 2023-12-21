@@ -1,4 +1,5 @@
 
+
 **Test Koncentracji:** Dwa razy podczas sesji postać może wykonać testy Woli. Dostaje wtedy nową pulę punktów **Mocy** równą sukcesom uzyskanym na teście – ale nie więcej niż maksymalna pula. Koncentracja zajmuje kwadrans.
 
 **Przedmioty:** Magicznych przedmiotów nie można trwale stracić. Jeśli zostaną one skradzione, zniszczone albo zagubione, postać w jakiś tajemniczy sposób z powrotem znajdzie się jego posiadaniu albo jego idealnej kopii. Nazwa magicznego przedmiotu określa tylko w przybliżeniu jego formę. Gracz decyduje o jego dokładnym wyglądzie. Tak samo działające przedmioty posiadane przez różnych graczy mogą wyglądać całkowicie inaczej. **Magiczna broń** jest traktowana jako broń doskonałej jakości – można kupować sukcesy na zerach i można je przerzucać.
@@ -52,31 +53,28 @@
 
 **Płaszcz [2] : przedmiot :** Postać może schować w swoim magicznym płaszczu duży przedmiot, nawet rozmiaru karabinu z zapasem amunicji albo szabli. Przedmioty są niewidoczne dla innych ludzi. Płaszcz można nawet oddać szatniarzowi i nie będzie w stanie on zauważyć, że jest z nim coś nie tak dopóki nie zacznie wnikliwie przeszukiwać. Żeby znaleźć przedmioty schowane w płaszczu postać musi wygrać test Spostrzegawczości przeciwko Kamuflażowi właściciela płaszcza.
 
-**???Opętanie [3] : zdolność :** Wymaga wydania punktu mocy. Musi być przeprowadzone na obezwładnionej ofierze. Trzeba wygrać przeciwstawny test własnej **Woli** przeciwko **Woli** ofiary.
-
-Po udanym teście przejmuje kontrolę nad ciałem ofiary do następnego wschodu słońca lub do momentu kiedy dobrowolnie przerwie się opętanie. Nie ma ograniczeń odległości na którą działa opętanie.
-
-Czarujący w czasie pozostaje w stanie głębokie medytacji i nie reaguje na żadne zewnętrzne bodźce – nawet na ekstremalny ból i zagrożenie życia.
-
-Wszystkie testy będąc w ciele opętanego przeprowadza się niższą z dwóch umiejętności (maga/zniewolonego) Jeśli w trakcie trwania opętania ofiara zginie – mag otrzymuje 2 punkty obrażeń, jeśli straci przytomność 1 punkt. W obu przypadkach opętanie jest zakończone.
 
 **Szklane Ostrze [1] : umiejętność :** Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
 
+**Kieł [1] : przedmiot :** Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
+
 **Odnowa [1] : umiejętność :** Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
 
-**??Luneta [2] : przedmiot :** Wydając jeden punkt mocy i patrząc przez lunetę postać widzi na wielokilometrowe odległości przez ściany i zarośla. Luneta może być zwykłą składaną lunetą albo przyczepiona do broni. Ze względu na magiczną naturę lunety można ją przyczepić do każdej broni palnej albo kuszy, nie wymaga regulacji ani narzędzi. Broń z zamontowaną lunetą otrzymuje cechę nieporęczna, ale zyskuje +1 do strzałów mierzonych
+**Luneta [2] : przedmiot :** Wydając jeden punkt mocy i patrząc przez lunetę postać widzi na wielokilometrowe odległości przez ściany i zarośla. Luneta może być zwykłą składaną lunetą albo przyczepiona do broni. Ze względu na magiczną naturę lunety można ją przyczepić do każdej broni palnej albo kuszy, nie wymaga regulacji ani narzędzi. Jeśli poświęcisz turę na przyjęcie pozycji strzeleckiej każdy strzał mierzony lunetą wykonujesz z umiejętnością podniesioną o punkt.
 
-**???Kontrola Pogody [2] : zdolność :** Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody.
+**Kontrola Pogody [2] : zdolność :** Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody np. zachmurzenie powodujące półmrok w środku dnia, albo huraganowy utrudniający strzelanie. Zmiana pogody trwa kilka tur, a utrzymuje się przez tyle godzin ile wynosi **Wola** postaci albo do czasu kiedy postać nie zdecyduje inaczej.
 
-**???Bagaż [2] : przedmiot :** Bagaż, który magicznie zmienia swoją postać. Może być końskimi jukami, kufrem, walizką podróżną, albo plecakiem. Do bagażu można spakować duże przedmioty, które normalnie by się tam nie zmieściły jak np. karabin, drabine. Nie zmieniają wagi noszonych przedmiotów, a jakimś cudem możesz tam trzymać bardzo duże i niewygodne rzeczy bez utraty mobilności własnej albo wierzchowca.
+**Bagaż [2] : przedmiot :** Bagaż, który magicznie zmienia swoją postać. Może być końskimi jukami, kufrem, walizką podróżną, albo plecakiem. Do bagażu można spakować duże przedmioty, które normalnie by się tam nie zmieściły jak np. karabin, drabinę. Nie zmieniają wagi noszonych przedmiotów, a jakimś cudem możesz tam trzymać bardzo duże i niewygodne rzeczy bez utraty mobilności własnej albo wierzchowca. Postać ustala jak wygląda jej bagaż na początku sesji, potem musi zapłacić jeden punkt mocy, żeby zmienić wygląd bagażu.
 
-**????Kielich [4] : przedmiot :** Raz podczas sesji możesz napić się z kielicha dowolnego alkoholu i natychmiast odzyskujesz wszystkie brakujące punkty Mocy.
 
-**????Kieł [3] : przedmiot :** przerzut do kamuflażu i sztuki przetrwania pod warunkiem, że postać nie ma przy sobie broni palnej, materiałów wybuchowych, pancerza i przedmiotów mechanicznych.
+**Opętanie [3] : zdolność :** Wymaga wydania punktu mocy. Musi być przeprowadzone na obezwładnionej ofierze. Trzeba wygrać przeciwstawny test własnej **Woli** przeciwko **Woli** ofiary. Po udanym teście przejmuje kontrolę nad ciałem ofiary do następnego wschodu słońca lub do momentu kiedy dobrowolnie przerwie się opętanie. Nie ma ograniczeń odległości na którą działa opętanie.Czarujący w czasie pozostaje w stanie głębokie medytacji i nie reaguje na żadne zewnętrzne bodźce – nawet na ekstremalny ból i zagrożenie życia. Wszystkie testy będąc w ciele opętanego przeprowadza się niższą z dwóch umiejętności (maga albo ofiary) Jeśli w trakcie trwania opętania ofiara zginie – mag otrzymuje 2 punkty obrażeń, jeśli ofiara tylko straci przytomność mag dostaje 1 punkt obrażeń. W obu przypadkach opętanie jest zakończone.
 
-**????Pierścien [3] : przedmiot :** moc podniesiona o punkt.
 
-**????Łuk [3] : przedmiot :** magiczny łuk, może wykonać szybki atak, zwykłe 3 kostki obrażeń podczas szybkich ataków, zwykłe 4 kostki obrażeń podczas mierzonych ataków. Magicznie dostosowuje swoją siłę. Założenie nowej strzały zajmuje pół tury zamiast całej tury jak w normalnym łuku.
+**Pierścień [3] : przedmiot :** Moc postaci jest podniesiona o punkt.
+
+**Lupara[3] : przedmiot :** dubeltówka ze skróconą lufą i kolbą, w przeciwieństwie do innych obrzynów postać wybiera czy używa broni krótkiej czy broni długiej do strzelania z lupary. Postać może wydać punkt mocy, żeby załadowanie lupary był akcją natychmiastową. Załadowana śrutiem zadaje jedną kostkę obrażeń więcej niż wynika to z normalnych zasad (słabe 5 kostek zamiast słabych 4), załadowana breneką nie zyskuje cechy odrzut.
+
+**Łuk [3] : przedmiot :** magiczny łuk, może wykonać szybki atak, zwykłe 3 kostki obrażeń podczas szybkich ataków, zwykłe 4 kostki obrażeń podczas mierzonych ataków. Magicznie dostosowuje swoją siłę do siły postaci. Założenie nowej strzały zajmuje pół tury zamiast całej tury jak w normalnym łuku.
 
 **Żrące Opary [2] :** Wymaga wydania punktu mocy. Gęste, duszące opary w kilka minut wypełniają wnętrze budynku w którym znajduje się mag albo, którego ściany dotyka. Maksymalnie wielkości dużej gospody. Za zapłacenie dodatkowego punktu żrące opary są w stanie wypełnić nawet wielką katedrę. Żrące zmuszają wszystkich do wybiegnięcia na zewnątrz. Wszyscy, którzy chcą zostać w środku muszą wygrać test **Wytrzymałości** przeciwko **Woli** maga. Każda osoba, która zostaje w środku traci punkt żywotności i kostkę z każdego testu dopóki nie wyjdzie. Rzucający zaklęcie jest sam odporny na jego działanie.
 
@@ -88,7 +86,8 @@ Wszystkie testy będąc w ciele opętanego przeprowadza się niższą z dwóch u
 
 ??Płacąc puntk SW może przypalić dowolne rany powstrzymując krwawienie (nie działa na rany postrzałowe)
 
-**Lupara[3] : przedmiot :** dubeltówka ze skróconą lufą i kolbą, w przeciwieństwie do innych obrzynów postać wybiera czy używa broni krótkiej czy broni długiej do strzelania z lupary. Postać może wydać punkt mocy, żeby załadowanie lupary był akcją natychmiastową. Załadowana śrutiem zadaje jedną kostkę obrażeń więcej niż wynika to z normalnych zasad (słabe 5 kostek zamiast słabych 4), załadowana breneką nie zyskuje cechy odrzut.
+
+**Kielich [4] : przedmiot :** Raz podczas sesji możesz napić się z kielicha dowolnego alkoholu i natychmiast odzyskujesz wszystkie brakujące punkty Mocy.
 
 **Nekromancja [4] : umiejętność :** Płacąć punkt SW możesz rozmawiać ze zwłokami - im świeższe i lepiej zachowane zwłoki tym lepsze efekty rozmowy. Płacąć dwa punkty jesteś w stanie ożywić zombie, które będzie Twoim ochroniarzem. Po przeprowadzaniu testu koncentracji musisz zapłacić jeden punkt SW za każde zombie, które utrzymujesz inaczej się rozpadną.
 
