@@ -1,10 +1,13 @@
 
+<h1> Magia </h1>
 
-**Test Koncentracji:** Dwa razy podczas sesji postać może wykonać testy Woli. Dostaje wtedy nową pulę punktów **Mocy** równą sukcesom uzyskanym na teście – ale nie więcej niż maksymalna pula. Koncentracja zajmuje kwadrans.
+<h3>Test Koncentracji</h3>
+Dwa razy podczas sesji postać może wykonać testy Woli. Dostaje wtedy nową pulę punktów **Mocy** równą sukcesom uzyskanym na teście – ale nie więcej niż maksymalna pula. Koncentracja zajmuje kwadrans.
 
-**Przedmioty:** Magicznych przedmiotów nie można trwale stracić. Jeśli zostaną one skradzione, zniszczone albo zagubione, postać w jakiś tajemniczy sposób z powrotem znajdzie się jego posiadaniu albo jego idealnej kopii. Nazwa magicznego przedmiotu określa tylko w przybliżeniu jego formę. Gracz decyduje o jego dokładnym wyglądzie. Tak samo działające przedmioty posiadane przez różnych graczy mogą wyglądać całkowicie inaczej. **Magiczna broń** jest traktowana jako broń doskonałej jakości – można kupować sukcesy na zerach i można je przerzucać.
+<h3>Przedmioty</h3>
+Magicznych przedmiotów nie można trwale stracić. Jeśli zostaną one skradzione, zniszczone albo zagubione, postać w jakiś tajemniczy sposób z powrotem znajdzie się jego posiadaniu albo jego idealnej kopii. Nazwa magicznego przedmiotu określa tylko w przybliżeniu jego formę. Gracz decyduje o jego dokładnym wyglądzie. Tak samo działające przedmioty posiadane przez różnych graczy mogą wyglądać całkowicie inaczej. **Magiczna broń** jest traktowana jako broń doskonałej jakości – można kupować sukcesy na zerach i można je przerzucać.
 
-**PRZEDMIOTY I ZDOLNOŚCI MAGICZNE**
+<h2> PRZEDMIOTY I ZDOLNOŚCI MAGICZNE </h2>
 
 **Jedna postać nie może posiadać dwóch takich samych mocy/przedmiotów**
 
@@ -13,31 +16,26 @@
   
   
 
-**Amulet [4] : przedmiot :** Postać otrzymuje jeden punkt obrażeń mniej od broni palnej pod warunkiem, że sama nie nosi broni palnej.
+**Szklane Ostrze [1] : umiejętność :** Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
 
-**Tatuaże [3] : przedmiot : Próg Bólu** o jeden punkt wyższy
+**Kieł [1] : przedmiot :** Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
 
-**Uzdrowiciel [4] : zdolność :** Płacąc jeden punkt siły woli leczysz dowolną postać i przywracasz tyle punktów żywotności ile sukcesów uzyskasz w teście **Medycyny**. Uzdrowienie trwa kwadrans i wymaga podstawowych narzędzi medycznych. W przypadku braku jakichkolwiek narzędzi postać rzuca kostką mniej. Jeśli postać leczy sama siebie również traci jedną kostkę.
+**Odnowa [1] : umiejętność :** Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
+  
+**???Zapalniczka[1] : przedmiot :** magiczna zapalniczka, działa zawsze niezależnie od warunków pogodowych, nie zużywa tlenu i ma nieskończony zapas paliwa.
 
-**Chowaniec [3] : towarzysz :** Posiadasz magiczne zwierzę (kot, pies, szczur, sowa, kruk albo koń). Jeśli zamkniesz oczy i się skoncentrujesz widzisz i słyszysz wszystko, co widzi i słyszy to zwierzę. Zwierzę jest Ci bezwzględnie posłuszne i wykonuje polecenia jak świetnie wyszkolony pies. Płacąc jeden punkt mocy możesz przejąć nad nim całkowitą kontrolę sam pozostajesz w tym czasie w stanie medytacji albo snu. Jeśli Twój chowaniec zginie, sam otrzymujesz jeden punkt obrażeń. Chowaniec wraca w sposób magiczny na następnej sesji lub na tej samej sesji po wydaniu punktu woli. Chowańce muszą jeść i pić jak normalne zwierzęta.
+??Postać może ją wyciągać i zapalać tak szybko jakby zawsze była w jego dłoni.
 
-**Transformacja [4]: zdolność :** Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
+??Płacąc puntk SW może przypalić dowolne rany powstrzymując krwawienie (nie działa na rany postrzałowe)
+
+
 
 **Telepatia [2] : zdolność :** Płacąc jeden punkt magii może rozmawiać z dowolną magicznie uzdolnioną osobą. Jeśli obie osoby posiadają zdolność telepatii nie trzeba wydawać punktów magii. Jeśli obie postacie posiadają dowolne lustra, mogą się w nich widzieć.
 
-**Lot [3]: zdolność :** Płacąc 1 punkt woli może polecieć 10 metrów w dowolnym kierunku albo bezpiecznie spaść z 50 metrów. Można płacić kilka punktów woli naraz żeby przedłużyć odległość.
 
-**Rozkaz [3] : zdolność :** Wymaga wydania **Punktu Woli** i wygrania testu **Charyzmy** rzucającego zaklęcie przeciwko **Woli** celu. Mag może wydać prosty jednozdaniowy rozkaz typu: Oddaj broń, powiedz czy byłeś dzisiaj w domu, zejdź z konia. Rozkaz trwa do momentu wypełnienia albo przez kilka minut w przypadku rozkazu w stylu: biegnij do najbliższej karczmy. Postać pod wpływem rozkazu będzie pamiętać całe zdarzenie i jednocześnie starać się racjonalizować swoje zachowanie. Rozkaz wymaga, żeby ofiara wyraźnie widziała i słyszała maga. Nie można rozkazać czegoś, co bezpośrednio doprowadzi do fizycznej krzywdy ofiary lub innych ludzi. Nie można rozkazać żeby wróg strzelił sobie w głowę, ale można rozkazać, żeby oddał broń. Rozkaz nie działa na postacie w środku walki albo zagrożenia życia.
 
 **Drzwi Wymiarów [2] : zdolność :** Przygotowujesz dowolne drzwi, rytuał trwa około godziny. Od tego momentu możesz płacąc jeden siły woli otworzyć portal między przygotowanymi wcześniej drzwiami, a dowolnymi innymi drzwiami, które otworzyłeś. Drzwi muszą być mniej więcej podobnych wymiarów. Przez portal można przechodzić dowolną ilość razy, przenosić dowolną ilość rzeczy, rozmawiać i patrzeć. Portal jest otwarty przez dokładnie kwadrans albo do momentu kiedy ktoś zamknie dowolne z połączonych drzwi, lub zostaną uszkodzone.
 
-**Iluzja [4] : zdolność :** Potrafisz tworzyć iluzje miejsc, przedmiotów lub nakładać na istoty iluzoryczne przebranie. Musisz wygrać test swoje **Charyzmy** przeciwko **Intuicji** ofiary. Jeśli postać ma jakiejś umiejętności artystyczne jak np. **Malowanie** albo **Rzeźba** może użyć ich zamiast Charyzmy. Iluzja nie może tworzyć zagrożenia dla życia i zdrowia jej ofiar. Jeśli pojawi się takie zagrożenie iluzja natychmiast się rozwiewa. Koszt iluzji rośnie w zależności od poziomu komplikacji. Wydanie jednego punktu pozwoli nałożyć na siebie iluzoryczną maskę innej osoby, albo stworzyć iluzje osoby, przedmiotu albo zwierzęcia.
-
-+1 punkt jeśli iluzja ma być interaktywna i oddziaływać na więcej zmysłów niż wzrok i słuch.
-
-+1 punkt jeśli iluzja ma trwać dłużej niż godzinę, za dodatkowy punkt trwa do momentu zaśnięcia albo utraty przytomności maga
-
-+1 albo +2 jeśli iluzja ma być duża i skompilowana, cała gospoda albo cały dworzec.
 
 **Fitokineza [2]: zdolność :** Mag potrafi manipulować roślinnością. Użycie Punkt Woli powoduje, że w kilka minut wyrastają gęste zarośla, mogące stworzyć 8 metrowy most, lub 16 metrową drabinę porastając dowolną skarpę lub ścianę. Mogą też stworzyć małe schronienie dla kilku osób, albo gęstą ścianę chroniącą przed pociskami. Możesz stworzyć też małe pole cierniowych krzaków, które uniemożliwia przejście bez narzędzi. Możesz też spowodować, żeby błyskawicznie wyrosły owoce i warzywa nadające się na posiłek dla pojedynczej osoby. Jeśli postać chce użyć z fitokinezy w terenie całkowicie pozbawionym roślinności – pustynia albo wnętrze kamiennej celi musi zapłacić dwa puntky Siły Woli zamiast jednego.
 
@@ -54,21 +52,24 @@
 **Płaszcz [2] : przedmiot :** Postać może schować w swoim magicznym płaszczu duży przedmiot, nawet rozmiaru karabinu z zapasem amunicji albo szabli. Przedmioty są niewidoczne dla innych ludzi. Płaszcz można nawet oddać szatniarzowi i nie będzie w stanie on zauważyć, że jest z nim coś nie tak dopóki nie zacznie wnikliwie przeszukiwać. Żeby znaleźć przedmioty schowane w płaszczu postać musi wygrać test Spostrzegawczości przeciwko Kamuflażowi właściciela płaszcza.
 
 
-**Szklane Ostrze [1] : umiejętność :** Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
-
-**Kieł [1] : przedmiot :** Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
-
-**Odnowa [1] : umiejętność :** Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
-
 **Luneta [2] : przedmiot :** Wydając jeden punkt mocy i patrząc przez lunetę postać widzi na wielokilometrowe odległości przez ściany i zarośla. Luneta może być zwykłą składaną lunetą albo przyczepiona do broni. Ze względu na magiczną naturę lunety można ją przyczepić do każdej broni palnej albo kuszy, nie wymaga regulacji ani narzędzi. Jeśli poświęcisz turę na przyjęcie pozycji strzeleckiej każdy strzał mierzony lunetą wykonujesz z umiejętnością podniesioną o punkt.
 
 **Kontrola Pogody [2] : zdolność :** Punkt Mocy powoduje zmian pogody. Dwa punkty powodują przywołanie ekstremalnych zmian pogody np. zachmurzenie powodujące półmrok w środku dnia, albo huraganowy utrudniający strzelanie. Zmiana pogody trwa kilka tur, a utrzymuje się przez tyle godzin ile wynosi **Wola** postaci albo do czasu kiedy postać nie zdecyduje inaczej.
 
 **Bagaż [2] : przedmiot :** Bagaż, który magicznie zmienia swoją postać. Może być końskimi jukami, kufrem, walizką podróżną, albo plecakiem. Do bagażu można spakować duże przedmioty, które normalnie by się tam nie zmieściły jak np. karabin, drabinę. Nie zmieniają wagi noszonych przedmiotów, a jakimś cudem możesz tam trzymać bardzo duże i niewygodne rzeczy bez utraty mobilności własnej albo wierzchowca. Postać ustala jak wygląda jej bagaż na początku sesji, potem musi zapłacić jeden punkt mocy, żeby zmienić wygląd bagażu.
 
+**Żrące Opary [2] :** Wymaga wydania punktu mocy. Gęste, duszące opary w kilka minut wypełniają wnętrze budynku w którym znajduje się mag albo, którego ściany dotyka. Maksymalnie wielkości dużej gospody. Za zapłacenie dodatkowego punktu żrące opary są w stanie wypełnić nawet wielką katedrę. Żrące zmuszają wszystkich do wybiegnięcia na zewnątrz. Wszyscy, którzy chcą zostać w środku muszą wygrać test **Wytrzymałości** przeciwko **Woli** maga. Każda osoba, która zostaje w środku traci punkt żywotności i kostkę z każdego testu dopóki nie wyjdzie. Rzucający zaklęcie jest sam odporny na jego działanie.
+
+
+**Rozkaz [3] : zdolność :** Wymaga wydania **Punktu Woli** i wygrania testu **Charyzmy** rzucającego zaklęcie przeciwko **Woli** celu. Mag może wydać prosty jednozdaniowy rozkaz typu: Oddaj broń, powiedz czy byłeś dzisiaj w domu, zejdź z konia. Rozkaz trwa do momentu wypełnienia albo przez kilka minut w przypadku rozkazu w stylu: biegnij do najbliższej karczmy. Postać pod wpływem rozkazu będzie pamiętać całe zdarzenie i jednocześnie starać się racjonalizować swoje zachowanie. Rozkaz wymaga, żeby ofiara wyraźnie widziała i słyszała maga. Nie można rozkazać czegoś, co bezpośrednio doprowadzi do fizycznej krzywdy ofiary lub innych ludzi. Nie można rozkazać żeby wróg strzelił sobie w głowę, ale można rozkazać, żeby oddał broń. Rozkaz nie działa na postacie w środku walki albo zagrożenia życia.
+
+**Lot [3]: zdolność :** Płacąc 1 punkt woli może polecieć 10 metrów w dowolnym kierunku albo bezpiecznie spaść z 50 metrów. Można płacić kilka punktów woli naraz żeby przedłużyć odległość.
 
 **Opętanie [3] : zdolność :** Wymaga wydania punktu mocy. Musi być przeprowadzone na obezwładnionej ofierze. Trzeba wygrać przeciwstawny test własnej **Woli** przeciwko **Woli** ofiary. Po udanym teście przejmuje kontrolę nad ciałem ofiary do następnego wschodu słońca lub do momentu kiedy dobrowolnie przerwie się opętanie. Nie ma ograniczeń odległości na którą działa opętanie.Czarujący w czasie pozostaje w stanie głębokie medytacji i nie reaguje na żadne zewnętrzne bodźce – nawet na ekstremalny ból i zagrożenie życia. Wszystkie testy będąc w ciele opętanego przeprowadza się niższą z dwóch umiejętności (maga albo ofiary) Jeśli w trakcie trwania opętania ofiara zginie – mag otrzymuje 2 punkty obrażeń, jeśli ofiara tylko straci przytomność mag dostaje 1 punkt obrażeń. W obu przypadkach opętanie jest zakończone.
 
+**Tatuaże [3] : przedmiot : Próg Bólu** o jeden punkt wyższy
+
+**Chowaniec [3] : towarzysz :** Posiadasz magiczne zwierzę (kot, pies, szczur, sowa, kruk albo koń). Jeśli zamkniesz oczy i się skoncentrujesz widzisz i słyszysz wszystko, co widzi i słyszy to zwierzę. Zwierzę jest Ci bezwzględnie posłuszne i wykonuje polecenia jak świetnie wyszkolony pies. Płacąc jeden punkt mocy możesz przejąć nad nim całkowitą kontrolę sam pozostajesz w tym czasie w stanie medytacji albo snu. Jeśli Twój chowaniec zginie, sam otrzymujesz jeden punkt obrażeń. Chowaniec wraca w sposób magiczny na następnej sesji lub na tej samej sesji po wydaniu punktu woli. Chowańce muszą jeść i pić jak normalne zwierzęta.
 
 **Pierścień [3] : przedmiot :** Moc postaci jest podniesiona o punkt.
 
@@ -76,20 +77,22 @@
 
 **Łuk [3] : przedmiot :** magiczny łuk, może wykonać szybki atak, zwykłe 3 kostki obrażeń podczas szybkich ataków, zwykłe 4 kostki obrażeń podczas mierzonych ataków. Magicznie dostosowuje swoją siłę do siły postaci. Założenie nowej strzały zajmuje pół tury zamiast całej tury jak w normalnym łuku.
 
-**Żrące Opary [2] :** Wymaga wydania punktu mocy. Gęste, duszące opary w kilka minut wypełniają wnętrze budynku w którym znajduje się mag albo, którego ściany dotyka. Maksymalnie wielkości dużej gospody. Za zapłacenie dodatkowego punktu żrące opary są w stanie wypełnić nawet wielką katedrę. Żrące zmuszają wszystkich do wybiegnięcia na zewnątrz. Wszyscy, którzy chcą zostać w środku muszą wygrać test **Wytrzymałości** przeciwko **Woli** maga. Każda osoba, która zostaje w środku traci punkt żywotności i kostkę z każdego testu dopóki nie wyjdzie. Rzucający zaklęcie jest sam odporny na jego działanie.
-
 **??Bicz[3] : przedmiot :** Zadaje 5 słabych kostek obrażeń i ma jeden przerzut ale nie można używać do kontrowania. Jeśli zadałeś celowi chociaż jeden punkt obrażeń możesz zapłacić punkt mocy i postać zostanie rozbrojona. Bicz ma normalnie 3 metry długości, ale jeśli zapłacisz punkt mocy może w maigczny sposób wydłużyć się i obwinąć go wokół dowolnego punktu (jak gałąź, poręcz, balustrada) w zasięgu 10 metrów i może służyć do wspinaczki.
-
-**???Zapalniczka[1] : przedmiot :** magiczna zapalniczka, działa zawsze niezależnie od warunków pogodowych, nie zużywa tlenu i ma nieskończony zapas paliwa.
-
-??Postać może ją wyciągać i zapalać tak szybko jakby zawsze była w jego dłoni.
-
-??Płacąc puntk SW może przypalić dowolne rany powstrzymując krwawienie (nie działa na rany postrzałowe)
-
 
 **Kielich [4] : przedmiot :** Raz podczas sesji możesz napić się z kielicha dowolnego alkoholu i natychmiast odzyskujesz wszystkie brakujące punkty Mocy.
 
 **Nekromancja [4] : umiejętność :** Płacąć punkt SW możesz rozmawiać ze zwłokami - im świeższe i lepiej zachowane zwłoki tym lepsze efekty rozmowy. Płacąć dwa punkty jesteś w stanie ożywić zombie, które będzie Twoim ochroniarzem. Po przeprowadzaniu testu koncentracji musisz zapłacić jeden punkt SW za każde zombie, które utrzymujesz inaczej się rozpadną.
+
+**Amulet [4] : przedmiot :** Postać otrzymuje jeden punkt obrażeń mniej od broni palnej pod warunkiem, że sama nie nosi broni palnej.
+
+**Uzdrowiciel [4] : zdolność :** Płacąc jeden punkt siły woli leczysz dowolną postać i przywracasz tyle punktów żywotności ile sukcesów uzyskasz w teście **Medycyny**. Uzdrowienie trwa kwadrans i wymaga podstawowych narzędzi medycznych. W przypadku braku jakichkolwiek narzędzi postać rzuca kostką mniej. Jeśli postać leczy sama siebie również traci jedną kostkę.
+
+**Transformacja [4]: zdolność :** Postać płaci punkt woli i przybiera postać kota, kruka, szczura albo sowy. Jakiekolwiek obrażenia w zmienionej formie spowodują, że wraca do postaci człowieka. Postać płaci dwa punkty woli i przybiera postać mgły. Może transformować ze sobą w mgłę dodatkowe osoby, jeśli zapłaci za nich dodatkowy punkt woli. W przypadku postaci graczy oni mogą zapłacić za siebie dodatkowym punktem woli. Można transformować w mgłę tylko postacie, które się na to zgodzą lub zostaną całkowicie obezwładnione. Mgła porusza się maksymalnie z szybkością szybkiego truchtu, nie może wznosić się do góry, ale może bezpiecznie spadać z dowolnej wysokości. Czas działania zaklęcia to godzina, ale mag może przerwać je wcześniej jeśli sobie tego zażyczy.
+
+**Iluzja [4] : zdolność :** Potrafisz tworzyć iluzje miejsc, przedmiotów lub nakładać na istoty iluzoryczne przebranie. Musisz wygrać test swoje **Charyzmy** przeciwko **Intuicji** ofiary. Jeśli postać ma jakiejś umiejętności artystyczne jak np. **Malowanie** albo **Rzeźba** może użyć ich zamiast Charyzmy. Iluzja nie może tworzyć zagrożenia dla życia i zdrowia jej ofiar. Jeśli pojawi się takie zagrożenie iluzja natychmiast się rozwiewa. Koszt iluzji rośnie w zależności od poziomu komplikacji. Wydanie jednego punktu pozwoli nałożyć na siebie iluzoryczną maskę innej osoby, albo stworzyć iluzje osoby, przedmiotu albo zwierzęcia.
+ - +1 punkt jeśli iluzja ma być interaktywna i oddziaływać na więcej zmysłów niż wzrok i słuch.
+ - +1 punkt jeśli iluzja ma trwać dłużej niż godzinę, za dodatkowy punkt trwa do momentu zaśnięcia albo utraty przytomności maga
+ - +1 albo +2 jeśli iluzja ma być duża i skompilowana, cała gospoda albo cały dworzec.
 
   
   
