@@ -1,4 +1,5 @@
 
+
 <h1> Magia </h1>
 
 <h3>Test Koncentracji</h3>
@@ -13,19 +14,17 @@ Magicznych przedmiotów nie można trwale stracić. Jeśli zostaną one skradzio
 
 **w [] podany jest obłęd jaki postać dostaje po wybraniu.**
 
-  
-  
-
-**Szklane Ostrze (*umiejętność*, obłęd : 1)**
+**Szklane Ostrze (*umiejętność*, obłęd = 1):**
 Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń, przeciwpancerny). Sztylet rozsypuje się w szklany pył po wykonaniu pierwszego ataku lub w momencie kiedy mag wypuści go z dłoni. Przyzwanie szklanego ostrza jest natychmiastowe, nie wymaga żadnych gestów ani słów. Można wykonać przyzwanie w środku walki.
 
-**Kieł (*przedmiot*, obłęd : 1)**
+**Kieł (*przedmiot*, obłęd : 1):**
 Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
 
-**Odnowa (*umiejętność *, obłęd : 1)**
-**Odnowa [1] : umiejętność :** Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
-  
-**???Zapalniczka[1] : przedmiot :** magiczna zapalniczka, działa zawsze niezależnie od warunków pogodowych, nie zużywa tlenu i ma nieskończony zapas paliwa.
+**Odnowa (*umiejętność*, obłęd = 1):**
+Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
+ 
+**Zapalniczka (*przedmiot*, obłęd = 1):**
+magiczna zapalniczka, działa zawsze niezależnie od warunków pogodowych, nie zużywa tlenu i ma nieskończony zapas paliwa.
 
 ??Postać może ją wyciągać i zapalać tak szybko jakby zawsze była w jego dłoni.
 
