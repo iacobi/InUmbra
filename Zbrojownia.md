@@ -1,5 +1,6 @@
 
 
+
 <h1>Zbrojownia</h1>
 <h2>Broń Palna Western</h2>
 
@@ -53,21 +54,23 @@
 <h2>Broń Biała</h2>
 
 
-|Walka Wręcz | Obrażenia | Przerzuty | Cechy | Umiejętność | Cena |
-|--|--|--|--|--|--|
-| **Bez broni**  |słabe 4 kostki|-|Walka Wręcz| traci kostkę z trafienia lepiej uzbrojonych |0$| 
-| **Kastet, Broń Improwizowana** |słabe 4 kostki| 1|Walka Wręcz|traci kostkę z trafienia lepiej uzbrojonych| 1$|
-| **Laska, Pałka, Gazrurka, młotek** |słabe 4 kostki|1|Walka Bronią/Walka Wręcz|- |0$| 
-| **Maczuga Okopowa**  |zwykłe4 kostki|1|Walka Bronią/Walka Wręcz| przeciwpancerna, kiepska kontra |0$| 
-| **Widły**  |zwykłe4 kostki|1|Walka Bronią/Walka Wręcz| -|10$| 
-| **Siekiera**  |silne 4 kostki|1|Walka Bronią/Walka Wręcz| kiepska kontra, dwuręczna|10$| 
-| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią/Walka Wręcz| dwuręczny|10$| 
-| **Nóż** |zwykłe 4 kostki|-|Walka Bronią/Walka Wręcz| - |0$| 
+*Walcząc **Bez Broni** albo **Kastetem** zawsze tracisz kostkę z rzutów na trafienie kiedy walczysz z kimś uzbrojonym w normalną broń
+|Broń | Obrażenia | Przerzuty | Umiejętność| Cechy| Cena |
+|--|:--:|:--:|--|--|--|
+| **Bez broni***  |słabe 4 kostki|-|Walka Wręcz| - |0$|
+| **Kastet*** |słabe 4 kostki| 1|Walka Wręcz|-| 1$|
+| **Pałka** |słabe 4 kostki|1|Walka Bronią / Walka Wręcz|-|0$| 
+| **Nóż** |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| - |0$|
+| **Tomahawk** | silne 4 kostki |-|Walka Bronią |-|10$|
+| **Topór**  |silne 4 kostki|1|Walka Bronią| dwuręczna|10$|
+| **Maczuga Okopowa**  |zwykłe 4 kostki|-|Walka Bronią / Walka Wręcz| przeciwpancerna |0$| 
+| **Młot Budowlany**  |silne 4 kostki|-|Walka Bronią| przeciwpancerny, dwuręczny|10$| 
 | **Maczeta** | zwykłe 4 kostki |1| Walka Bronią |- |10$| 
 | **Szabla** | zwykłe 4 kostki |2|Walka Bronią |- |20$| 
-| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|100$| 
-| **Tomahawk** | silne 4 kostki |1|Walka Bronią | kiepska kontra|10$| 
+| **Katana** | silne 4 kostki |2|Walka Bronią | dwuręczna|100$
 | **Włócznia** | zwykłe 4 kostki |3|Walka Bronią | dwuręczna|10$| 
+| **Widły**  |zwykłe 4 kostki|2|Walka Bronią| dwuręczne|10$| 
+| **Łopata**  |zwykłe 4 kostki|1|Walka Bronią| dwuręczna|10$| 
 
 
 
