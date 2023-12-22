@@ -20,6 +20,9 @@ Punkt mocy przywołuje w dłoni maga szklany sztylet (zwykłe 4 kostki obrażeń
 **Kieł (*przedmiot*, obłęd : 1):**
 Przerzut do Sztuki Przetrwania. Postać zadaje zwierzętom jeden punkt obrażeń więcej niż wynika to z rzutu na obrażenia.
 
+**Cestus (*przedmiot*, obłęd : 1):**
+Srebrny kastet, zadaje jedną kostke obrażeń więcej.
+
 **Odnowa (*zdolność*, obłęd : 1):**
 Płacąc punkt mocy mag odzyskuje jeden punkt żywotności. Ubranie zostaje wyczyszczone, a drobne uszkodzenia naprawione. Odnowa nie zasklepi poważnych ran jak postrzał albo głębokie rozcięcia ale usunie ślady obtarć albo podbitego oka.
  
