@@ -1,19 +1,18 @@
-**Bestiariusz**
+<h1>Bestiariusz</h1>
 
 
   
 
 **Bestia:** w walce wręcz/walce bronią postacie tracą kostkę z każego rzutu (w tym rzutu na obrażenia) przeciwko bestiom.
 
-**Odporność:** otrzymuje połowę obrażeń zaokrąglone w dół
+**Odporny:** otrzymuje połowę obrażeń zaokrąglone w dół
 
-**Hart:**
 
-**Coś o kontrze jak w zalecie hart**
 
   
 
-**Niedźwiedź,** Bestia, Odporny (ataki wycelowane w serce ignorują odporność)
+<h2>Niedźwiedź</h2>
+Bestia, Odporny (ataki wycelowane w serce ignorują odporność)
 
 Żywotność: 6
 
@@ -27,7 +26,8 @@ Obrażenia: silne 5 kostek
 
   
 
-**Tygrys,** Bestia
+<h2>Tygrys</h2>
+Bestia
 
 Żywotność: 6
 
@@ -41,7 +41,8 @@ Obrażenia: zwykłe 5 kostek
 
   
 
-**Wilk,** Bestia
+<h2>Wilk</h2>
+Bestia
 
 Żywotność: 5
 
