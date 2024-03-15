@@ -56,4 +56,5 @@ Obrażenia: zwykłe 4 kostki
 
   
 
-**Zombie:** jak ludzie z umiejętnością minus jeden, ale mają odporność.
+<h2>Zombie</h2>
+jak ludzie z umiejętnością minus jeden, ale mają odporność.
