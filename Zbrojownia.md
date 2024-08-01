@@ -17,8 +17,10 @@
 |--|--|--|--|--|--|
 | **Winchester .44-40**|silne 3 kostki| 15 | 1 nabój na turę |Prosta Obsługa | 30$|
 | **Winchester .45-60**|zwykłe 4 kostki| 12 | 1 nabój na turę | | 40$|
-| **Dubeltówka** |słabe 5 kostek| 2 | 1 nabój na turę | Dublet| 16$|
-| **Winchester .12 gauge**|słabe 5 kostek| 6 | 1 nabój na turę | Strzelba| 40$|
+| **Dubeltówka (śrut)**|słabe 5 kostek| 2 | 1 nabój na turę | Dublet, Śrut | 16$|
+| **Dubeltówka (slug)**|silne 4 kostki| 2 | 1 nabój na turę | Dublet, Odrzut| 16$|
+| **Strzelba powtarzalna (śrut)**|słabe 5 kostek| 6 | 1 nabój na turę | Śrut| 40$|
+| **Strzelba powtarzalna (slug)**|silne 4 kostki| 6 | 1 nabój na turę | Odrzut| 40$|
 | **Karabin .45-70**|zwykłe 4 kostki| 6 | 1 nabój na turę | | 20$|
 | **Karabin .50-90** |zwykłe 5 kostek| 6 | 1 nabój na turę | Odrzut| 40$|
 | **Driling lufa gwintowana**|zwykłe 4 kostki| 2 | 1 nabój na turę |Dublet | 40$|
@@ -28,7 +30,7 @@
 
 ***Drilling –** drilling najczęściej ma dwa lufy gładkie i jedną gwintowaną.
 
-**Strzelba:** przerzut do ataku, załadowane breneką zamiast śrutu traci przerzut, zyskuje cechę Odrzut i silne kostki obrażeń zamiast słabych
+**Śrut:** przerzut do ataku, kumuluje się z przerzutem z dubletu. Przerzuty można wykorzystać tylko na rzut na trafienie, nie można przerzucać obrażeń
 
 **Odrzut:** umiejętność strzelania jest równana w dół do Siły postaci
 
